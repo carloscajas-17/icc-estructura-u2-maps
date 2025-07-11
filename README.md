@@ -1,6 +1,8 @@
 ## Resultados de Ejecución
 ![Resultados de Ejecución](CapturaMapas.png)
 ![Resultados de Ejecución](CapturaDaoMapHash.png)
+![Resultados de Ejecución](Ejercicios1.png)
+
 
 # Non-Linear Data Structures 
 
